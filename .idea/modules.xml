@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://C:/wamp64/www/code/.idea/code.iml" filepath="C:/wamp64/www/code/.idea/code.iml" />
+      <module fileurl="file://C:/wamp64/www/waiyutong/.idea/waiyutong.iml" filepath="C:/wamp64/www/waiyutong/.idea/waiyutong.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/weiboplus.iml" filepath="$PROJECT_DIR$/.idea/weiboplus.iml" />
     </modules>
   </component>
